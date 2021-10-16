@@ -1,0 +1,73 @@
+{
+  "Todos": [
+    {
+      "id": 2,
+      "todo": "Pay bill"
+    },
+    {
+      "id": 3,
+      "todo": "Meet Sharvari"
+    },
+    {
+      "id": 4,
+      "todo": "Buy mobile"
+    },
+    {
+      "id": 5,
+      "todo": "Organize office"
+    },
+    {
+      "todo": "Organize office",
+      "id": 10
+    },
+    {
+      "id": 11,
+      "todo": "Meet Sharvari Vicky"
+    },
+    {
+      "id": 12,
+      "todo": "Meet Sharu"
+    },
+    {
+      "todo": "Call to xyz",
+      "id": 13
+    }
+  ],
+  "Users": [
+    {
+      "id": 1,
+      "name": "Vicky Shinde",
+      "email": "vicky@webonise.com",
+      "contact": "9999999999",
+      "password": "Vicky123"
+    },
+    {
+      "id": 2,
+      "name": "Sharvari Shinde",
+      "email": "sharvari@webonise.com",
+      "contact": "888888888",
+      "password": "Sharvari123"
+    },
+    {
+      "id": 3,
+      "name": "Sharvari Shinde",
+      "email": "sharvari@gmail.com",
+      "contact": "888888888",
+      "password": "Sharvari123"
+    },
+    {
+      "name": "Vicky Shinde",
+      "email": "vicky@vicky.com",
+      "contact": "09822903030",
+      "password": "W12sdddd",
+      "id": 5
+    },
+    {
+      "name": "Piyush Shinde",
+      "email": "piyush@gmail.ocm",
+      "contact": "5539937653",
+      "password": "Piyush1234",
+      "id": 6
+    }
+  ]
+}
